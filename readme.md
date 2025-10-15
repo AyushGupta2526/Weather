@@ -38,7 +38,7 @@ Weather is a straightforward Android weather application designed for simplicity
 
 1. Clone this GitHub repository:
    ```shell
-   git clone https://github.com/IamAbhinavSINGH/Weather
+   git clone https://github.com/AyushGupta2526/Weather
    ```
 2. Open the project in Android Studio.
 
@@ -61,7 +61,7 @@ Contributions to this repo are welcome! Feel free to submit bug reports, feature
 
 ## Development Setup
 
-Clone the repository: git clone https://github.com/IamAbhinavSINGH/Weather
+Clone the repository: git clone https://github.com/AyushGupta2526/Weather
 Open the project in Android Studio.
 Build and run the app on an emulator or a connected Android device.
 
