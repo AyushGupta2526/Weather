@@ -30,7 +30,7 @@ Weather is a straightforward Android weather application designed for simplicity
 
 1. goto apks folder 
 
-2. copy apk file
+2. Copy apk file
 
 3. Install it in your Android phone
    
